@@ -20,7 +20,6 @@ import lombok.extern.slf4j.Slf4j;
 @RestController
 @RequestMapping("api/v1/cliente/")
 @Slf4j
-//@EnableResourceServer
 public class ClienteController {
 
 	@Autowired
